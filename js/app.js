@@ -62,3 +62,6 @@ const verMas = () => {
     }
   }
 };
+
+//la propiedad para acceder al texto de un input es value. No se usa innerHTML
+// nombreInput.value
